@@ -2,8 +2,10 @@
   "name": "rbasico",
   "version": "1.0.0",
   "license": "MIT",
+  "homepage": "https://github.com/juanvl/githubrepos",
   "dependencies": {
     "axios": "^0.19.0",
+    "gh-pages": "^2.1.1",
     "prop-types": "^15.7.2",
     "react": "latest",
     "react-dom": "latest",
@@ -30,7 +32,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
