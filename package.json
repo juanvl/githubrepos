@@ -2,7 +2,7 @@
   "name": "rbasico",
   "version": "1.0.0",
   "license": "MIT",
-  "homepage": "https://github.com/juanvl/githubrepos",
+  "homepage": "https://juanvl.github.io/githubrepos/",
   "dependencies": {
     "axios": "^0.19.0",
     "gh-pages": "^2.1.1",
