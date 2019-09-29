@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/juanvl/githubrepos/static/js/main.d83bc529.chunk.js",
-    "main.js.map": "/juanvl/githubrepos/static/js/main.d83bc529.chunk.js.map",
-    "runtime~main.js": "/juanvl/githubrepos/static/js/runtime~main.83df4663.js",
-    "runtime~main.js.map": "/juanvl/githubrepos/static/js/runtime~main.83df4663.js.map",
-    "static/js/2.be6fa28b.chunk.js": "/juanvl/githubrepos/static/js/2.be6fa28b.chunk.js",
-    "static/js/2.be6fa28b.chunk.js.map": "/juanvl/githubrepos/static/js/2.be6fa28b.chunk.js.map",
-    "index.html": "/juanvl/githubrepos/index.html",
-    "precache-manifest.0882c166f3442d5ea8a497bf7a6b38d7.js": "/juanvl/githubrepos/precache-manifest.0882c166f3442d5ea8a497bf7a6b38d7.js",
-    "service-worker.js": "/juanvl/githubrepos/service-worker.js"
+    "main.js": "/githubrepos/static/js/main.d83bc529.chunk.js",
+    "main.js.map": "/githubrepos/static/js/main.d83bc529.chunk.js.map",
+    "runtime~main.js": "/githubrepos/static/js/runtime~main.5d034dda.js",
+    "runtime~main.js.map": "/githubrepos/static/js/runtime~main.5d034dda.js.map",
+    "static/js/2.f239caf9.chunk.js": "/githubrepos/static/js/2.f239caf9.chunk.js",
+    "static/js/2.f239caf9.chunk.js.map": "/githubrepos/static/js/2.f239caf9.chunk.js.map",
+    "index.html": "/githubrepos/index.html",
+    "precache-manifest.fe19f1bf2d85f532a43178343d9f1401.js": "/githubrepos/precache-manifest.fe19f1bf2d85f532a43178343d9f1401.js",
+    "service-worker.js": "/githubrepos/service-worker.js"
   }
 }
